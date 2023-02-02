@@ -22,8 +22,7 @@ p {
 }
 
 #card {
-  max-width: 1440px;
-  height: 500px;
+  max-width: 750px;
   box-shadow: 2px 5px 10px 0px rgba(0, 0, 0, 0.15);
   border-radius: 5px;
   overflow: hidden;
@@ -48,8 +47,7 @@ p {
   display: flex;
   flex-direction: column;
   width: 50%;
-  height: 100%;
-  vertical-align: top;
+  height: auto;
   padding: 40px;
 }
 
@@ -134,4 +132,20 @@ ul li {
   font-size: 1.05rem;
   line-height: 25px;
   color: hsl(180, 57%, 91%);
+}
+
+@media (max-width: 650px) {
+  #card {
+    height: auto;
+  }
+  #bottom-section {
+    display: flex;
+    flex-direction: column;
+  }
+  #bottom-left-section,
+  #bottom-right-section {
+    width: 100%;
+    height: auto;
+    align-items: center;
+  }
 }
