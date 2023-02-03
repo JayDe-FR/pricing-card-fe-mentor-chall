@@ -44,9 +44,8 @@ p {
 
 #bottom-left-section,
 #bottom-right-section {
-  display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 100%;
   height: auto;
   padding: 40px;
 }
@@ -75,14 +74,14 @@ p {
 }
 
 button {
+  height: 55px;
+  padding: 10px;
+  width: 100%;
   color: white;
   font-size: large;
   font-weight: 700;
   background-color: #c0df34;
   border: none;
-  height: 55px;
-  padding: 10px;
-  width: 100%;
   border-radius: 5px;
 }
 
@@ -146,6 +145,5 @@ ul li {
   #bottom-right-section {
     width: 100%;
     height: auto;
-    align-items: center;
   }
 }
