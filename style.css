@@ -25,7 +25,6 @@ p {
   max-width: 750px;
   box-shadow: 2px 5px 10px 0px rgba(0, 0, 0, 0.15);
   border-radius: 5px;
-  overflow: hidden;
 }
 
 #top-section {
