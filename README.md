@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Price Card Screenshot](./images/SinglePriceCardComponent%20Screenshot.jpg)
+Linked in the GitHub repository
 
 ### Links
 
