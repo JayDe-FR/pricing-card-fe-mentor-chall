@@ -15,6 +15,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [GitHub](https://github.com/JayDe-FR/pricing-card-fe-mentor-chall.git)
 - Live Site URL: [Add live site URL here](https://jayde-fr.github.io/pricing-card-fe-mentor-chall/)
 
 ## My process
